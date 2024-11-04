@@ -1,0 +1,5 @@
+w1234567|Deelaka|60|13|46|Fail
+w1234567|Kavnidu Prabath|89|56|23|Pass
+w2356789|Olindu Lakmina|56|94|76|Merit
+w0987654|Janith Udara|56|45|67|Pass
+w0298375|Pasindu Nimehs|69|89|46|Pass
