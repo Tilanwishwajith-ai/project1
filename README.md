@@ -1,2 +1,2 @@
 # project1
-this is pro1
+This is  project is student activity management system
